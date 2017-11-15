@@ -1,0 +1,6 @@
+Twitter/Data/
+Twitter/Outputs/
+Facebook/Data/
+Facebook/Outputs/
+*.pyc
+*.csv
