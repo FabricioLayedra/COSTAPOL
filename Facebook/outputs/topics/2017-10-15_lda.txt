@@ -1,0 +1,165 @@
+Topic 0:
+agua
+siempre
+canton
+turismo
+vida
+empresas
+mar
+debe
+servicio
+gente
+Topic 1:
+felicidades
+familia
+mejor
+morales
+carlos
+luis
+semana
+acompanado
+style
+abrazo
+Topic 2:
+transitar
+puedo
+parece
+km
+linda
+dr
+shopping
+volante
+solucion
+hacer
+Topic 3:
+bonito
+grupo
+empresa
+linda
+expresos
+quedo
+sigan
+hoy
+cuba
+luis
+Topic 4:
+familia
+carlos
+felicito
+siempre
+luis
+bendiga
+felicidades
+dios
+bendiciones
+puedo
+Topic 5:
+vias
+toda
+semana
+barrio
+verga
+bellos
+roldos
+adelante
+quedo
+circular
+Topic 6:
+agua
+lucas
+mirian
+alcaldesa
+personas
+va
+miriam
+muchas
+felicitaciones
+favor
+Topic 7:
+familia
+buenas
+trabajo
+alguien
+sabe
+paseo
+ve
+persona
+querido
+comision
+Topic 8:
+muerto
+engabao
+posorja
+via
+casa
+comision
+operativo
+servidores
+importa
+volquetas
+Topic 9:
+familia
+bus
+dios
+puede
+carro
+volante
+expreso
+favor
+ser
+culpa
+Topic 10:
+via
+alcaldesa
+posorja
+adelante
+obras
+estan
+hacen
+calles
+tan
+doctora
+Topic 11:
+via
+alcaldesa
+calle
+tantos
+carros
+dios
+tambien
+olvide
+accidentes
+va
+Topic 12:
+trabajo
+turismo
+servidores
+noches
+querido
+buenas
+ahora
+viven
+puerto
+falta
+Topic 13:
+cuba
+volquetas
+informe
+obra
+peligro
+calles
+buen
+40
+hecho
+informacion
+Topic 14:
+culpa
+favor
+av
+via
+yes
+carro
+puedo
+primero
+fallecido
+ley

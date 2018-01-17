@@ -1,0 +1,165 @@
+Topic 0:
+data
+castillo
+calles
+parque
+mejor
+alcaldesa
+villamil
+ser
+bendiciones
+realidad
+Topic 1:
+excelente
+volqueta
+deberian
+trabajan
+guayaco
+bendiciones
+canton
+amigos
+camionetas
+entradas
+Topic 2:
+guayaco
+excelente
+abrazo
+tambien
+trabajo
+lucas
+merece
+corren
+decir
+luis
+Topic 3:
+via
+vehiculos
+volquetas
+incluso
+familia
+autoridades
+trabajo
+corren
+transporte
+mayoria
+Topic 4:
+siga
+canton
+carino
+seguro
+barrio
+carlos
+luis
+felicitaciones
+proyecto
+recibir
+Topic 5:
+noches
+autoridades
+trabajan
+mayoria
+conducir
+posorja
+hacen
+manera
+volquete
+espero
+Topic 6:
+entradas
+vigilancia
+lucas
+pudieran
+obra
+primera
+continuo
+pana
+poder
+alcaldesa
+Topic 7:
+control
+alejandro
+peligro
+ruta
+comision
+dolor
+gente
+hacen
+transito
+volquetas
+Topic 8:
+existir
+deberia
+familia
+pista
+canton
+metros
+barrera
+hacen
+exitos
+morro
+Topic 9:
+via
+vehiculos
+autoridades
+mayoria
+pensar
+volquetas
+vamos
+hacen
+deberia
+velocidad
+Topic 10:
+vigilancia
+pena
+zona
+pista
+rica
+luis
+dos
+gana
+villamil
+primera
+Topic 11:
+volquetas
+van
+luis
+carlos
+felicitaciones
+mejor
+dos
+alcaldesa
+siempre
+seguro
+Topic 12:
+parque
+luis
+ninos
+carreteras
+barrio
+carlos
+tambien
+vez
+veo
+estan
+Topic 13:
+gente
+existir
+transito
+velocidad
+pudieran
+luis
+excelente
+data
+deberia
+estimado
+Topic 14:
+guayaco
+pesados
+morales
+dos
+corren
+unas
+ademas
+urbanizaciones
+accidente
+profundas

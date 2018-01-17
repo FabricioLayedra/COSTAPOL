@@ -1,0 +1,165 @@
+Topic 0:
+hermosa
+mejor
+familia
+felicidades
+dios
+bendiga
+felicitaciones
+bendiciones
+style
+ustedes
+Topic 1:
+calle
+alcaldesa
+tambien
+olvide
+barrio
+via
+dice
+calles
+toda
+hora
+Topic 2:
+bus
+auto
+carril
+dios
+carro
+personas
+estacionado
+tierra
+culpa
+persona
+Topic 3:
+agua
+siempre
+mismo
+va
+servicio
+corrupcion
+novedad
+accidente
+empresas
+necesita
+Topic 4:
+turismo
+canton
+matriz
+debe
+limpio
+cualquier
+vida
+hora
+principal
+buscar
+Topic 5:
+via
+carros
+hacen
+transito
+posorja
+expresos
+dos
+llevan
+fin
+comision
+Topic 6:
+carlos
+luis
+morales
+felicito
+puede
+lugar
+playa
+familia
+salvar
+ve
+Topic 7:
+dicho
+cambiando
+lindo
+siempre
+felicidades
+dicen
+espero
+favor
+familia
+falta
+Topic 8:
+dios
+volante
+fallecido
+familia
+expreso
+juan
+primero
+tantos
+ahi
+favor
+Topic 9:
+yes
+volquetas
+esperar
+espero
+esposa
+estacionado
+estan
+eventos
+excelente
+expreso
+Topic 10:
+muerto
+engabao
+casa
+comision
+volquetas
+posorja
+via
+peor
+transitar
+viven
+Topic 11:
+trabajo
+turismo
+llegar
+noches
+esposa
+fuente
+fuerte
+querido
+seria
+servidores
+Topic 12:
+miriam
+agua
+playeate
+data
+querida
+realizando
+bellos
+bello
+pensar
+obra
+Topic 13:
+familia
+bonito
+momentos
+compartir
+matriz
+grupo
+foto
+paseo
+productiva
+trabajo
+Topic 14:
+lucas
+mirian
+alcaldesa
+adquirir
+adelante
+obras
+dr
+km
+entradas
+estan

@@ -1,0 +1,165 @@
+Topic 0:
+luis
+carlos
+morales
+bendiga
+dios
+voz
+momentos
+linda
+lindo
+canta
+Topic 1:
+agua
+ultima
+noticia
+horas
+siempre
+hora
+ser
+menos
+papeles
+servicio
+Topic 2:
+comunidad
+felicitaciones
+bueno
+puerto
+pronto
+evento
+velocidad
+german
+exceso
+danilo
+Topic 3:
+yambay
+felicitaciones
+felicidad
+favor
+familia
+exitos
+exelente
+exceso
+excelente
+evento
+Topic 4:
+iniciativa
+excelente
+playeate
+engabao
+evento
+espinel
+alvarado
+linda
+humano
+buenos
+Topic 5:
+villamil
+lindo
+quieren
+aca
+danilo
+german
+orozco
+yambay
+hace
+dan
+Topic 6:
+comunidad
+hora
+avisan
+lcdo
+siga
+exceso
+vez
+velocidad
+noticiero
+deberian
+Topic 7:
+felicito
+equipo
+hacer
+buena
+agua
+lindos
+novedad
+ahora
+anos
+mil
+Topic 8:
+lindo
+toda
+carlitos
+navideno
+felicidades
+familia
+energia
+hermoso
+benitez
+prefecto
+Topic 9:
+canton
+labor
+parte
+oportunidad
+hermosos
+luces
+miriam
+ustedes
+villamil
+alcaldesa
+Topic 10:
+agua
+tener
+hermano
+video
+cada
+demas
+dios
+beneficio
+porq
+exelente
+Topic 11:
+bendiciones
+navidad
+energia
+seria
+noticiero
+empalme
+ver
+realidad
+bonito
+exelente
+Topic 12:
+vamos
+mejor
+vivido
+sigas
+bendiciones
+lista
+viva
+ojala
+seguir
+lodo
+Topic 13:
+barrio
+miriam
+realidad
+lucas
+gran
+ayuden
+polvo
+ver
+lodo
+nunca
+Topic 14:
+navidad
+feliz
+anos
+toda
+alcaldesa
+nietos
+siempre
+excelente
+lindo
+familia

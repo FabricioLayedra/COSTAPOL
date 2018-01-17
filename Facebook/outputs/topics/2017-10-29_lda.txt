@@ -1,0 +1,165 @@
+Topic 0:
+practica
+peor
+gremio
+alcaldesa
+dinero
+dejan
+ganamos
+feriado
+contigo
+calle
+Topic 1:
+policias
+final
+casco
+campeon
+ley
+lado
+complices
+andan
+motos
+vez
+Topic 2:
+cada
+hacen
+coop
+estan
+calle
+siga
+deberian
+motos
+tambien
+gente
+Topic 3:
+accidentes
+basura
+asta
+imagino
+comerciantes
+posorja
+esquina
+media
+haciendo
+cte
+Topic 4:
+lagrimas
+hola
+pedro
+necesita
+leonardo
+ganamos
+noticias
+echo
+hermoso
+vivimos
+Topic 5:
+accidente
+van
+mendoza
+barcelona
+dond
+traer
+matando
+buena
+terminar
+cruz
+Topic 6:
+carlos
+vamos
+luis
+barcelona
+grande
+idolo
+hoy
+historia
+siempre
+dios
+Topic 7:
+dos
+mismo
+pasajero
+haciendo
+ley
+van
+100pre
+hermano
+vamos
+apoyo
+Topic 8:
+caterva
+luis
+carlos
+bendiga
+dios
+noticias
+buen
+fin
+semana
+hace
+Topic 9:
+vamos
+felicitaciones
+barcelona
+bendiga
+carlos
+ser
+gran
+corazon
+idolo
+ecuador
+Topic 10:
+loco
+operativos
+hoy
+choferes
+contigo
+animo
+policias
+gente
+motos
+alcaldesa
+Topic 11:
+senores
+choferes
+carro
+cooperativas
+dos
+pasajeros
+control
+derecho
+trabajar
+villamil
+Topic 12:
+choferes
+cooperativas
+gente
+accidentes
+accidente
+mucha
+pide
+cte
+corriendo
+sino
+Topic 13:
+obras
+barrio
+data
+estan
+villamil
+alcaldesa
+barrios
+personas
+van
+siga
+Topic 14:
+exito
+doctora
+diferentes
+policia
+atras
+hermano
+lado
+pasan
+cte
+tomar
